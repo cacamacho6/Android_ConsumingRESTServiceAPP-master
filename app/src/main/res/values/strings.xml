@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsumingRESTServiceAPP</string>
+    <string name="title_activity_character">CharacterActivity</string>
+</resources>
